@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Signal-Server
 =================
 
@@ -45,3 +46,6 @@ Copyright 2013 Signal Messenger, LLC
 Licensed under the GNU AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
 
 [community forum]: https://community.signalusers.org
+=======
+# signal-jw
+>>>>>>> fc6ed7bb203ca3a157b7129f067fc598dfe0cd0c
